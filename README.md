@@ -40,10 +40,10 @@ AIphrodite is an AI-powered hotline platform designed to provide lifelike, engag
 ---
 
 ## Project Structure  
-├── frontend/         # React.js frontend
-├── backend/          # Node.js backend with Express
-├── smart-contracts/  # Solana smart contracts for token
-├── ai-integration/   # AI models and configuration
-├── voice-integration/ # ElevenLabs integration for voice synthesis
-├── database/         # PostgreSQL schema and migrations
-└── docs/             # Project documentation and guides
+├── frontend/         # React.js frontend<br />
+├── backend/          # Node.js backend with Express<br />
+├── smart-contracts/  # Solana smart contracts for token<br />
+├── ai-integration/   # AI models and configuration<br />
+├── voice-integration/ # ElevenLabs integration for voice synthesis<br />
+├── database/         # PostgreSQL schema and migrations<br />
+└── docs/             # Project documentation and guides<br />
